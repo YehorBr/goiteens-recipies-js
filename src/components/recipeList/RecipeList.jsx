@@ -3,7 +3,7 @@ import { FaRegClock } from "react-icons/fa";
 import { IoFastFoodOutline } from "react-icons/io5";
 import { FaRegStar } from "react-icons/fa";
 import { PiBowlFoodLight } from "react-icons/pi";
-import {List, RecipeStyled} from "./RecipeList.styled"
+import {List} from "./RecipeList.styled"
 
 
 export function RecipeList(props){
